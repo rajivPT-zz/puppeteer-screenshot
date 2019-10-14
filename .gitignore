@@ -52,4 +52,6 @@ jspm_packages
 
 .idea
 *.png
+*.jpg
+.DS_Store
 trace.json
